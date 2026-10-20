@@ -1,0 +1,7 @@
+
+----------------------------------------------
+gpio_get_set started at Mon Mar 18 11:29:16 2024
+
+----------------------------------------------
+
+    Opening pin 9 for interrupt: direction = in, edge = both.

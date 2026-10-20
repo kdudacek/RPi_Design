@@ -1,0 +1,8 @@
+
+----------------------------------------------
+hw_set_set started at Tue Mar 19 17:22:30 2024
+
+----------------------------------------------
+
+Opening memory file /dev/mem ... OK
+Mapping register address range 3F200000 ... mapped to 76F46000
