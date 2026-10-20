@@ -1,0 +1,3831 @@
+
+----------------------------------------------
+dgram_server_main started at Wed Nov  8 12:08:44 2023
+
+----------------------------------------------
+
+dgram_server socket started at Wed Nov  8 12:08:44 2023
+returned OK
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
+     received 10 bytes from 
+decoding command[0] = FF
+sending response
+response sent OK
+-----------
+     waiting for recvfrom
