@@ -1,1 +1,1 @@
-Various experiment projects on the RPi.
+Various experimental projects on the RPi.
